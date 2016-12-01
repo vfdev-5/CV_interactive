@@ -11,9 +11,10 @@ These notebooks are inspired by [OpenCV](https://github.com/opencv/opencv/blob/m
 * opencv3
 * jupyter-notebook
 
-~~Click to the badge, to go into the interactive mode : [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/vfdev-5/cv_interactive)~~
+Click to the badge, to go into the interactive mode : [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/vfdev-5/cv_interactive)
 
 ## Content
 
 * Gabor filter
 * Image matching
+* Deconvolution
