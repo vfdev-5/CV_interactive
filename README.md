@@ -1,8 +1,8 @@
 # Computer Vision interactive examples
 
-A number of *jupyter notebooks* introducing basic computer vision algorithms.
+A number of *jupyter notebooks* introducing basic computer vision algorithms and notions.
 
-These notebooks are inspired by [OpenCV](https://github.com/opencv/opencv/blob/master/samples) samples and add an interactive part to get an intiution of how works a filter or algorithm.
+Some of notebooks are inspired by [OpenCV](https://github.com/opencv/opencv/blob/master/samples) samples and add an interactive part to get an intiution of how works a filter or algorithm.
 
 ## Requirements
 
@@ -22,3 +22,4 @@ Click to the badge, to go into an interactive mode with [mybinder.org](http://my
 * Gabor filter
 * Image matching
 * Deconvolution
+* Geometric primitives
